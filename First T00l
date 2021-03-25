@@ -1,0 +1,9 @@
+# ip-pinger-
+This tool is use to ping ips
+apt upgrade
+apt install
+apt python -y
+apt python2 -y
+cd ip-pinger
+php install -y
+python ip-pinger 
